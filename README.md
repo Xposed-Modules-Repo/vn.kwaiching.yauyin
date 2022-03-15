@@ -3,11 +3,14 @@
 ## 功能: / Functions:
 
 	- 頂點小說: 去除閱讀小說廣告, 去除更新
+	- 筆趣閣: 去除閱讀小說廣告, 去除更新
 
 
 ## 支持版本: / Support Version:
 
 	頂點小說: V1.01.20210206
+
+	筆趣閣: V9.0.210421
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -18,7 +21,6 @@
 	-城通網盤:
 	https://u062.com/d/16731109-40183208-4b8931
 	[密碼：9214]
-
 
 	-星耀雲盤:
 	http://www.starsdisk.com/space_kwaiching.html
@@ -44,20 +46,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
-
-### Changes
-
-野草集_V1.1
-
-	0x00. 頂點小說: 去除閱讀小說廣告, 去除更新
-
-貴族網盤
-        https://kwaiching.dudujb.com
-
-城通網盤
-        https://u062.com/d/16731109-40183208-4b8931
-        [访问密码：9214]
-
-星耀雲盤
-        http://www.starsdisk.com/space_kwaiching.html
+	
