@@ -4,6 +4,8 @@
 
 	- 頂點小說: 去除閱讀小說廣告, 去除更新
 	- 筆趣閣: 去除閱讀小說廣告, 去除更新
+	- 火星小說: 去除 banner 廣告, 去除更新
+
 
 
 ## 支持版本: / Support Version:
@@ -11,6 +13,8 @@
 	頂點小說: V1.01.20210206
 
 	筆趣閣: V9.0.210421
+
+	火星小說: 2.5.1
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -46,4 +50,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
