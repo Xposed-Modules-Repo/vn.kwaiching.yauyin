@@ -7,6 +7,7 @@
 	- 火星小說: 去除 banner 廣告; 去除更新;
 	- 天天讀書: 去除廣告; 去除更新;
 	- 淘小說: 破解VIP; 去除啟動廣告; 去除遊戲推廣廣告; 去除主頁廣告;
+	- 必看小說: 破解VIP; 去除廣告;
 
 
 
@@ -21,6 +22,8 @@
 	天天讀書: V3.7.6
 
 	淘小說: V7.5.5
+
+	必看小說: V1.54.10
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -56,3 +59,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
