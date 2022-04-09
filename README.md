@@ -8,6 +8,8 @@
 	- 天天讀書: 去除廣告; 去除更新;
 	- 淘小說: 破解VIP; 去除啟動廣告; 去除遊戲推廣廣告; 去除主頁廣告;
 	- 必看小說: 破解VIP; 去除廣告;
+	- 51漫畫: 去除啟動廣告; 去除彈窗廣告; 去除通知廣告; 去除漫畫主頁廣告; 去除動漫主頁廣告; 去除視頻主頁廣告; 去除漫畫詳情頁廣告; 解鎖VIP漫畫;
+
 
 
 
@@ -25,11 +27,10 @@
 
 	必看小說: V1.54.10
 
+	51漫畫: V2.20
+
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
-
-	-貴族網盤:
-	https://kwaiching.dudujb.com
 
 	-城通網盤:
 	https://u062.com/d/16731109-40183208-4b8931
@@ -39,9 +40,6 @@
 	http://www.starsdisk.com/space_kwaiching.html
 
 ## 野草集:
-
-	-貴族網盤:
-	https://kwaiching.dudujb.com/folder_8119.html
 
 	-城通網盤:
 	https://url09.ctfile.com/d/16731109-47503844-7c873a
@@ -59,4 +57,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
+	
